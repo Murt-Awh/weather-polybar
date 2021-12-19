@@ -17,3 +17,5 @@ you need to change `unit` to your according unit, that can be either `standard`,
 ```python
 unit="metric"
 ```
+# note
+this doesn't include polybar setup, it's just the code for getting the weather.
