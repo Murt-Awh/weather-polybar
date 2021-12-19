@@ -3,5 +3,17 @@ the code for my weather script for polybar
 # using
 to use this, you need to change `API_KEY` to your own key that you can obtain from [here](https://openweathermap.org/api).
 ```python
-API_KEY="YOUR_KEY"
+apiKey="YOUR_KEY"
+```
+you need to change `city` to your according city.
+```python
+city="manchester"
+```
+you need to change `language` to your according language.
+```python
+language="en"
+```
+you need to change `unit` to your according unit, that can be either `standard`, `metric` or `imperial`.
+```python
+unit="metric"
 ```
