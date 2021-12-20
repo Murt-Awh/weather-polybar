@@ -1,2 +1,5 @@
 #!/bin/sh
-python3 $HOME/.config/polybar/scripts/weather/weather.py
+
+# Get the current dir and run the file
+
+python3 $(dirname "$0")/src/weather.py
