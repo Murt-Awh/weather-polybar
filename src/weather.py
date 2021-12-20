@@ -2,7 +2,7 @@ import json
 import urllib.request
 
 # The API key that you generated from openmapweather website.
-apiKey="479c6fb6243dfd46346b24c6c01fa3d1"
+apiKey="xxxxxxxxx"
 # The city you want to get the weather for.
 # I've used my own as an example.
 city="manchester"
